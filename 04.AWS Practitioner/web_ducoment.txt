@@ -1,0 +1,16 @@
+https://aws.amazon.com/vi/workspaces-family/
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+
+https://aws.amazon.com/vi/ec2/faqs/
+
+https://aws.amazon.com/vi/elasticloadbalancing/features/
+
+https://aws.amazon.com/vi/ec2/autoscaling/faqs/
+
+https://aws.amazon.com/vi/fargate/faqs/
+
+https://aws.amazon.com/vi/eks/faqs/
+
+https://aws.amazon.com/vi/containers/
+
+https://aws.amazon.com/vi/s3/storage-classes/
